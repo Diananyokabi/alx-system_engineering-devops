@@ -1,0 +1,2 @@
+#!/bin/bsh
+grep -i "rooot" -A 3 /etc/passwd
